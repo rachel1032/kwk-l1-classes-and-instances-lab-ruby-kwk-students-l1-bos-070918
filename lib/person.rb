@@ -2,4 +2,5 @@
 
 class Person
   
-  adele_goldberg =
+  adele_goldberg = Person.new
+  alan_kay = Person.new
